@@ -100,6 +100,7 @@ $header->render();
     class ProductpriaRepository extends Productpria //Kita menambahkan inheritance dengan mengextends product pria
     {
         private $koneksi;
+        //class ProductpriaRepository hanya bisa di akses  
 
         public function __construct($koneksi)
         {
