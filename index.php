@@ -25,7 +25,7 @@ $header->render();
                                     <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="shop.php">Shop Now</a>
                                 </div>
                             </div>
-                        </div>
+                        </div>       650px
                     </div>
                 </div>
             </div>
@@ -33,11 +33,7 @@ $header->render();
     </div>
     <!-- Carousel End -->
 
-
-    <!-- Featured Start -->
-    <!-- Featured End -->
-
-
+//komentarr sa tambah disini
     <!-- Categories Start -->
     <div class="container-fluid pt-5">
         <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Categories</span></h2>
