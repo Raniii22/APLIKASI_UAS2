@@ -33,7 +33,6 @@ $header->render();
     </div>
     <!-- Carousel End -->
 
-//komentarr sa tambah disini
     <!-- Categories Start -->
     <div class="container-fluid pt-5">
         <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Categories</span></h2>
@@ -100,7 +99,7 @@ $header->render();
     class ProductpriaRepository extends Productpria //Kita menambahkan inheritance dengan mengextends product pria
     {
         private $koneksi;
-        //class ProductpriaRepository hanya bisa di akses  
+        //class ProductpriaRepository hanya bisa di akses 
 
         public function __construct($koneksi)
         {
